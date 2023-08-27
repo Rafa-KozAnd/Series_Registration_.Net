@@ -12,7 +12,7 @@
 - Project Name: 'Series Registration .Net';
 - Languages: 'C# - .Net';
 - Softwares/Work Tools: 'V.S. Code';
-- Resume: CRUD de Cadastro de Séries desenvolvido em .Net (C#), feito pela plataforma DIO (https://web.dio.me/play).
+- Resume: Series Registration CRUD developed in .Net (C#), made by the DIO platform (https://web.dio.me/play).
 - Obs: Example;
 - Version: v.1.0.0
 
